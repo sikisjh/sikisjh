@@ -1,0 +1,12 @@
+1정 519 강의실인데 깃허브 데스크탑 로그아웃하고 깃허브는 자동로그아웃없어서 홈페이지 들어와서 수동으로 로그아웃하셔야 깃허브 + 깃허브 데스크탑 다 로그아웃 됩니다~
+
+- 👋 Hi, I’m @sikisjh
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+sikisjh/sikisjh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
